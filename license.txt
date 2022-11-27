@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plastic Pallet
+* source:	https://sketchfab.com/3d-models/plastic-pallet-0699da1b0dd04c13b5c6731c8dda75d1
+* author:	billy3D (https://sketchfab.com/billyNG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plastic Pallet" (https://sketchfab.com/3d-models/plastic-pallet-0699da1b0dd04c13b5c6731c8dda75d1) by billy3D (https://sketchfab.com/billyNG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
